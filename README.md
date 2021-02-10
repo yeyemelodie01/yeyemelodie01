@@ -9,7 +9,7 @@
 git config --global user.name "Melodie YEYE"
 
 # Identity Email
-git config --global user.email "yeyemelodie@outlook.Fr"
+git config --global user.email "yeyemelodie@outlook.fr"
 
 # Position 
 git config --global user.position "WEB DEVELOPER" 
